@@ -1,0 +1,17 @@
+{
+  "name": "infocoder_homework_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Anna Kessler",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.23.0",
+    "nodemon": "^3.1.0"
+  }
+}
